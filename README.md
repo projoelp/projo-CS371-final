@@ -41,6 +41,8 @@ To build and run the Character Creator application, follow these steps:
 
 This project utilizes the Factory Method design pattern to create different types of characters. The Factory Method pattern provides an interface for creating objects but allows subclasses to alter the type of objects that will be created.
 
+[Factory Design Pattern by Derek Banas](https://www.youtube.com/watch?v=ub0DXaeV6hA&list=PLF206E906175C7E07&index=5)
+
 ### How it's used:
 
 - The `CharacterFactory` class acts as the factory, providing a method `makeCharacter()` to create character objects based on the provided character class.
